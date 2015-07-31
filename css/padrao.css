@@ -1,0 +1,51 @@
+html{
+	padding-top:80px;
+}
+h3 {
+	color: #B7B700;
+}
+
+a {
+	color : #fff;
+	cursor: pointer;
+}
+
+.navbar-header , .navbar-collapse, .navbar  {
+	background: #C2C800;
+}
+
+.logo {
+	padding: 0px;
+	width: 112px;
+}
+
+#form-buscar {
+	padding-top: 6px;
+}
+
+#btEntrar {
+	padding-top: 13px;
+    font-size: 18px !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.imgColaborador {
+	margin-left: 46px;
+}
+
+#textComunidade{
+	font-size: 51px;
+    letter-spacing: -1px;
+    font-weight: 700;
+}
+
+.row {
+	padding-top: 20px;
+}
+
+#btComecar {
+	background: #8755BB;
+	height: 56px;
+	font: 700 28px/56px Arial,sans-serif;
+}
